@@ -6,7 +6,8 @@
 💬 Ask me about AI architectures, Transformers, tokenizers, or backend logic.<br>
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@sylo_3285) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/Pr76p4MAhy) [![Hugging Face](https://img.shields.io/badge/HuggingFace-%2326284D?style=for-the-badge&logo=huggingface&logoColor=%23FFCC00)](https://huggingface.co/Sylo3285)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@sylo_3285) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/Pr76p4MAhy) [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFB000?logo=huggingface&logoColor=white)](https://huggingface.co/Sylo3285)
+
 
 
 # 💻 Technical knowledge:
